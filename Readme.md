@@ -54,6 +54,9 @@ Database:
 ### Future Improvement
 Project completed
 
+### License
+All source code and data in this repository are open sourced. Any usages of this work with or without credit to the original posters are fully authorized and subject to no future conflict.
+
 ## Timeline
 
 10/2017 - Project Initiated
@@ -64,8 +67,8 @@ Project completed
 * [Visual Studio](https://www.eclipse.org/) - Code IDE
 
 ## Acknowledgments
-
-* Steam
-* Ben Hu Phd 
+* [JSON Parser] https://github.com/nlohmann/json - Big thanks to nlohmnn
+* Yelp - Big thanks for providing us the open data
+* CSCE 315 Staffs
 
 
